@@ -1,0 +1,9 @@
+D:\ETAO2\Code\WindsorTest\WindsorTest\bin\Debug\WindsorTest.exe.config
+D:\ETAO2\Code\WindsorTest\WindsorTest\bin\Debug\WindsorTest.exe
+D:\ETAO2\Code\WindsorTest\WindsorTest\bin\Debug\WindsorTest.pdb
+D:\ETAO2\Code\WindsorTest\WindsorTest\bin\Debug\Castle.Core.dll
+D:\ETAO2\Code\WindsorTest\WindsorTest\bin\Debug\Castle.Windsor.dll
+D:\ETAO2\Code\WindsorTest\WindsorTest\bin\Debug\Castle.Core.xml
+D:\ETAO2\Code\WindsorTest\WindsorTest\bin\Debug\Castle.Windsor.xml
+D:\ETAO2\Code\WindsorTest\WindsorTest\obj\Debug\WindsorTest.exe
+D:\ETAO2\Code\WindsorTest\WindsorTest\obj\Debug\WindsorTest.pdb
