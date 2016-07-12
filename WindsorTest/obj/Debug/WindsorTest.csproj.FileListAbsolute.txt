@@ -7,3 +7,4 @@ D:\ETAO2\Code\WindsorTest\WindsorTest\bin\Debug\Castle.Core.xml
 D:\ETAO2\Code\WindsorTest\WindsorTest\bin\Debug\Castle.Windsor.xml
 D:\ETAO2\Code\WindsorTest\WindsorTest\obj\Debug\WindsorTest.exe
 D:\ETAO2\Code\WindsorTest\WindsorTest\obj\Debug\WindsorTest.pdb
+D:\ETAO2\Code\WindsorTest\WindsorTest\obj\Debug\WindsorTest.csprojResolveAssemblyReference.cache
